@@ -1,3 +1,11 @@
 # Generate CV
 
-Generate HTML CV from Markdown CV located at [Can Aknesil's personal web-site](https://canaknesil.github.io/cv/).
+Primary location of my CV.
+
+CV is described in Emacs Org mode in `cv.org`.
+
+Convert to HTML with `org-html-export-to-html`, and move to `output` folder, where the associated `.css` file is located.
+
+Convert to PDF with `org-latex-export-to-pdf`, and move to `output` folder.
+
+
