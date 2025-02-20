@@ -2,8 +2,9 @@
 #+AUTHOR: Can Aknesil
 #+OPTIONS: toc:nil author:nil date:nil num:nil title:nil
 #+LATEX_CLASS_OPTIONS: [10pt]
-#+LATEX_HEADER: \usepackage[scaled]{helvet}
+# #+LATEX_HEADER: \usepackage[scaled]{helvet}
 #+LATEX_HEADER: \usepackage[T1]{fontenc}
+#+LATEX_HEADER: \usepackage[utf8]{inputenc}
 #+LATEX_HEADER: \renewcommand\familydefault{\sfdefault}
 #+LATEX_HEADER: \usepackage[left=1.0in,right=1.0in,top=1.0in,bottom=1.5in]{geometry}
 #+LATEX_HEADER: \usepackage{titlesec}
@@ -11,45 +12,51 @@
 #+LATEX_HEADER: \titleformat{\subsection}{\Large\sffamily\bfseries}{\thesection}{1em}{}[{\titlerule[0.4pt]}]
 #+LATEX_HEADER: \titleformat{\subsubsection}{\large\sffamily\bfseries}{\thesection}{1em}{}[{\titlerule[0.4pt]}]
 #+LATEX_HEADER: \usepackage{xcolor}
-#+LATEX_HEADER: \hypersetup{colorlinks=true, linkcolor=violet, urlcolor=violet, filecolor=violet}
+#+LATEX_HEADER: \hypersetup{colorlinks=true, linkcolor=blue, urlcolor=blue, filecolor=blue}
 #+LATEX_HEADER: \usepackage{enumitem}
 #+LATEX_HEADER: \setlength{\parindent}{0pt}
 #+LATEX_HEADER: \setlength{\parskip}{10pt}
+#+LATEX_HEADER: \usepackage{setspace}
+#+LATEX_HEADER: \setstretch{1.12}
 #+LATEX_HEADER: \AtBeginDocument{\raggedright}
+#+LATEX_HEADER: \AtBeginDocument{\clubpenalty=10000}  % Prevents first line of paragraph at the bottom of a page
+#+LATEX_HEADER: \AtBeginDocument{\widowpenalty=10000} % Prevents last line of paragraph at the top of a page
 #+HTML_HEAD: <link rel="stylesheet" type="text/css" href="github.css" />
 
 
 * CV
-Updated on 9 February 2025.
+20 February 2025
 
-* Can AKNESİL
-Kungliga Tekniska Högskolan, SE-100 44 STOCKHOLM\\
+* Can Aknesil
+Kungliga Tekniska H\ouml{}gskolan, SE-100 44 STOCKHOLM\\
 [[mailto:aknesil@kth.se][aknesil@kth.se]]\\
 [[https://www.canaknesil.com][www.canaknesil.com]]
 
 ** EDUCATION
 
-*KTH Royal Institute of Technology* /2021 – Present/\\
-*School of Electrical Engineering and Computer Science*, STOCKHOLM\\
-*Doctoral Study in Information and Communication Technology*\\
+*Doctoral Study in Information and Communication Technology* @@latex:\hfill@@ /2021 – Present/\\
+KTH Royal Institute of Technology, Stockholm\\
+School of Electrical Engineering and Computer Science\\
 Specialization: Electronic Systems\\
 Title: Protecting Remote FPGAs and Embedded Devices from Non-Invasive Physical Attacks\\
 Supervisor: Prof. Elena Dubrova
 
-*KTH Royal Institute of Technology* /2018 – 2020/\\
-*School of Electrical Engineering and Computer Science*, STOCKHOLM\\
-*Master of Science in Embedded Systems (Platform track)*
+*Master of Science in Embedded Systems (Platform track)* @@latex:\hfill@@ /2018 – 2020/\\
+KTH Royal Institute of Technology, Stockholm\\
+School of Electrical Engineering and Computer Science
 
-*Koç University* /2013 – 2018/\\
-*College of Engineering*, ISTANBUL\\
-*Bachelor of Science in Electrical & Electronics Engineering*\\
+*Bachelor of Science in Electrical & Electronics Engineering* @@latex:\hfill@@ /2013 – 2018/\\
 *Double Major in Computer Engineering*\\
+Koç University, Istanbul\\
+College of Engineering\\
 (25% Scholarship)\\
 GPA: 3.44 / 4\\
-Vehbi Koç Scholar in 2014 and 2016
+Vehbi Koç Scholar in 2014 and 2016\\
+Member of [[https://parcorelab.ku.edu.tr/][Koç University - Parallel and Multicore Computing Laboratory]]
+# September 2016 – March 2018
 
-*Notre Dame de Sion* French High School /2008 – 2013/\\
-ISTANBUL 
+*High School* @@latex:\hfill@@ /2008 – 2013/\\
+Notre Dame de Sion French High School, Istanbul 
 
 ** PUBLICATIONS
 
@@ -69,66 +76,53 @@ Can Aknesil, Elena Dubrova, Niklas Lindskog, Jakob Sternby, Håkan Englund. "Hyb
 
 [[https://www.canaknesil.com/docs/MAM_A_Memory_Allocation_Manager_for_GPUs.pdf][Can Aknesil and Didem Unat. "MAM: A Memory Allocation Manager for GPUs". 5. Ulusal Yüksek Başarımlı Hesaplama Konferansı, Istanbul, Turkey. September, 2017.]]
 
-** EXPERIENCE
+** PROFESSIONAL EXPERIENCE
 
-*** Professional Experience
+*Doctoral Student* @@latex:\hfill@@ /March 2021 – Present/\\
+[[https://www.kth.se/en][KTH (Royal Institute of Technology)]], Stockholm\\
+School of Electrical Engineering and Computer Science\\
+Department of Electrical Engineering\\
+Division of Electronics and Embedded Systems
 
-*Doctoral Study* /March 2021 – Present/\\
-[[https://www.kth.se/en][KTH (Royal Institute of Technology)]]\\
-Stockholm, Sweden\\
-Doctoral Student in the School of Electrical Engineering and Computer Science, Department of Electrical Engineering, Division of Electronics and Embedded Systems
+*Research Engineer* @@latex:\hfill@@ /June 2020 – January 2021/\\
+[[https://www.kth.se/en][KTH (Royal Institute of Technology)]], Stockholm\\
+School of Electrical Engineering and Computer Science
 
-*Employment* /June 2020 – January 2021/\\
-[[https://www.kth.se/en][KTH (Royal Institute of Technology)]]\\
-Stockholm, Sweden\\
-Research Engineer in the School of Electrical Engineering and Computer Science
+*Intern* @@latex:\hfill@@ /June 2019 – November 2019/\\
+[[https://www.ericsson.com/en][Telefonaktiebolaget LM Ericsson]], Stockholm\\
+High Performance Broadband/Radio Software Department
 
-*Internship R&D* /June 2019 – November 2019/\\
-[[https://www.ericsson.com/en][Telefonaktiebolaget LM Ericsson]]\\
-Stockholm, Sweden\\
-Intern in High Performance Broadband/Radio Software Department
+*Intern* @@latex:\hfill@@ /July 2017 – September 2017/\\
+[[http://www.ctech.com.tr][CTech Bilişim Teknolojileri San. ve Tic. A.Ş.]], Istanbul\\
+Hardware Department
 
-*Work&Study in College of Engineering* /September 2017 – January 2018/\\
-[[https://eng.ku.edu.tr/en/][Koç University - College of Engineering]]\\
-Istanbul, Turkey\\
-Undergraduate Teaching Assistant under Deniz Yüret
+*Mentor Student* @@latex:\hfill@@ /February 2017 – June 2017/\\
+[[https://it.ku.edu.tr][Koç University]], Instanbul\\
+IT Department\\
+Communication and Infrastructure Services
 
-*Internship* /July 2017 – September 2017/\\
-[[http://www.ctech.com.tr][CTech Bilişim Teknolojileri San. ve Tic. A.Ş.]]\\
-Istanbul, Turkey\\
-Hardware Department Intern
+*Intern* @@latex:\hfill@@ /July 2016 – August 2016/\\
+[[http://obss.com.tr][OBSS]], Istanbul\\
+Technology Department
 
-*Work&Study in IT Department* /February 2017 – June 2017/\\
-[[https://it.ku.edu.tr][Koç University - IT]]\\
-Istanbul, Turkey\\
-Communication and Infrastructure Services Mentor Student
+** TEACHING EXPERIENCE
 
-*OBSS Summer Internship* /July 2016 – August 2016/\\
-[[http://obss.com.tr][OBSS]]\\
-Istanbul, Turkey\\
-Technology Department Intern
+*Teaching Assistant* (during doctoral studies) @@latex:\hfill@@ /March 2021 - Present/\\
+[[https://www.kth.se/en][KTH (Royal Institute of Technology)]], Stockholm\\
+School of Electrical Engineering and Computer Science\\
+Department of Electrical Engineering\\
+Division of Electronics and Embedded Systems
 
-*** Teaching Experience
+*Undergraduate Teaching Assistant* @@latex:\hfill@@ /September 2017 – January 2018/\\
+[[https://eng.ku.edu.tr/en/][Koç University]], Istanbul\\
+College of Engineering\\
+Supervisor: Deniz Yüret
 
-*Various Teaching Assistantship during Doctoral Study* /March 2021 - Present/\\
-[[https://www.kth.se/en][KTH (Royal Institute of Technology)]]\\
-Stockholm, Sweden\\
-Doctoral Student in the School of Electrical Engineering and Computer Science, Department of Electrical Engineering, Division of Electronics and Embedded Systems
+*Section Leader* @@latex:\hfill@@ /June 20 – 30, 2016/\\
+[[https://www.stanford.edu/][Stanford University]] & [[https://eng.ku.edu.tr/en/][Koç University]], Istanbul\\
+[[http://www.csbridge.org][CS Bridge Program]]
 
-[[http://www.csbridge.org][*CS Bridge Program*]] /June 20 – 30, 2016/\\
-Stanford University & Koç University\\
-Koç University, Istanbul, Turkey\\
-Section Leader
-
-*** Research Lab Membership
-
-[[https://parcorelab.ku.edu.tr/][*Koç University - Parallel and Multicore Computing Laboratory*]] /September 2016 – March 2018/\\
-Koç University, Istanbul, Turkey\\
-Lab Member
-
-** SKILLS
-
-*** Language
+** LANGUAGE SKILLS
 
 *Turkish:* Native language
 
@@ -138,7 +132,7 @@ Lab Member
 
 *Swedish:* SFI Course C in 2021 (roughly corresponds to CEFR A2/A2+), KTH Swedish B2 for Employees in 2024
 
-*** Electronics Engineering & Computer Science
+** PROFESSIONAL SKILLS
 
 Hardware security\\
 #+ATTR_LATEX: :options [noitemsep, topsep=2pt]
