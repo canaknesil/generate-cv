@@ -60,6 +60,8 @@ Notre Dame de Sion French High School, Istanbul
 
 ** PUBLICATIONS
 
+[[https://eprint.iacr.org/2025/673][Can Aknesil, Elena Dubrova, Niklas Lindskog, Jakob Sternby, Håkan Englund. "Hybrid Fingerprinting for Effective Detection of Cloned Neural Networks". Cryptology ePrint Archive, Paper 2025/673, 2025.]]
+
 Can Aknesil, Elena Dubrova, Niklas Lindskog, Jakob Sternby, Håkan Englund. "Hybrid Fingerprinting for Effective Detection of Cloned Neural Networks". Accepted to 2025 IEEE 55th International Symposium on Multiple-Valued Logic (ISMVL). 2025.
 
 [[https://doi.ieeecomputersociety.org/10.1109/DSD64264.2024.00055][Can Aknesil, Elena Dubrova. "Circuit Disguise: Detecting Malicious Circuits in Cloud FPGAs without IP Disclosure". 2024 27th Euromicro Conference on Digital System Design (DSD). 2024.]]
