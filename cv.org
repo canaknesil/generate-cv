@@ -25,7 +25,7 @@
 
 
 * CV
-29 September 2025
+16 February 2026
 
 * Can Aknesil
 Kungliga Tekniska H\ouml{}gskolan, SE-100 44 STOCKHOLM\\
@@ -85,8 +85,7 @@ Notre Dame de Sion French High School, Istanbul
 *Postdoctoral Researcher* @@latex:\hfill@@ /June 2025 – Present/\\
 [[https://www.kth.se/en][KTH (Royal Institute of Technology)]], Stockholm\\
 School of Electrical Engineering and Computer Science\\
-Department of Computer Science\\
-Division of Network and Systems Engineering
+Department of Network and Systems Engineering
 
 *Doctoral Student* @@latex:\hfill@@ /March 2021 – June 2025/\\
 [[https://www.kth.se/en][KTH (Royal Institute of Technology)]], Stockholm\\
@@ -96,7 +95,9 @@ Division of Electronics and Embedded Systems
 
 *Research Engineer* @@latex:\hfill@@ /June 2020 – January 2021/\\
 [[https://www.kth.se/en][KTH (Royal Institute of Technology)]], Stockholm\\
-School of Electrical Engineering and Computer Science
+School of Electrical Engineering and Computer Science\\
+Department of Electrical Engineering\\
+Division of Electronics and Embedded Systems
 
 *Intern* @@latex:\hfill@@ /June 2019 – November 2019/\\
 [[https://www.ericsson.com/en][Telefonaktiebolaget LM Ericsson]], Stockholm\\
@@ -248,6 +249,7 @@ A subset of my projects can be found [[https://github.com/canaknesil][here]].
 
 ** CONFERENCES & WORKSHOPS
 
+- [[https://www.digitalfutures.kth.se/event/challenges-and-opportunities-of-pqc-deployment-workshop/][Challenges and Opportunities of PQC Deployment Workshop]]. /(2026)/
 - [[https://mvl.jpn.org/ISMVL2025/][IEEE 55st International Symposium on Multiple-Valued Logic (ISMVL)]]. Presented a research paper. /(2025)/
 - [[https://dsd-seaa.com/dsd2024/][27th Euromicro Conference Series on Digital System Design]]. Presented a research paper. /(2024)/
 - [[https://cysep.conf.kth.se/][Cybersecurity and Privacy (CySeP) Summer School]]. /(2024)/
