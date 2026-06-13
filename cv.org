@@ -25,27 +25,27 @@
 
 
 * CV
-16 February 2026
+13 June 2026
 
 * Can Aknesil
 Kungliga Tekniska H\ouml{}gskolan, SE-100 44 STOCKHOLM\\
-[[mailto:aknesil@kth.se][aknesil@kth.se]]\\
+aknesil at kth.se\\
 [[https://www.canaknesil.com][www.canaknesil.com]]
 
 ** EDUCATION
 
-*Doctoral Study in Information and Communication Technology* @@latex:\hfill@@ /2021 – 2025/\\
+*Doctoral Study in Information and Communication Technology* /(2021 – 2025)/\\
 KTH Royal Institute of Technology, Stockholm\\
 School of Electrical Engineering and Computer Science\\
 Specialization: Electronic Systems\\
 Title: Protecting Remote FPGAs and Embedded Devices from Non-Invasive Physical Attacks\\
 Supervisor: Prof. Elena Dubrova
 
-*Master of Science in Embedded Systems (Platform track)* @@latex:\hfill@@ /2018 – 2020/\\
+*Master of Science in Embedded Systems (Platform track)* /(2018 – 2020)/\\
 KTH Royal Institute of Technology, Stockholm\\
 School of Electrical Engineering and Computer Science
 
-*Bachelor of Science in Electrical & Electronics Engineering* @@latex:\hfill@@ /2013 – 2018/\\
+*Bachelor of Science in Electrical & Electronics Engineering* /(2013 – 2018)/\\
 *Double Major in Computer Engineering*\\
 Koç University, Istanbul\\
 College of Engineering\\
@@ -55,10 +55,12 @@ Vehbi Koç Scholar in 2014 and 2016\\
 Member of [[https://parcorelab.ku.edu.tr/][Koç University - Parallel and Multicore Computing Laboratory]]
 # September 2016 – March 2018
 
-*High School* @@latex:\hfill@@ /2008 – 2013/\\
+*High School* /(2008 – 2013)/\\
 Notre Dame de Sion French High School, Istanbul 
 
 ** PUBLICATIONS
+
+[[https://eprint.iacr.org/2026/806][Can Aknesil, Andreas Lindner, Roberto Guanciale, Hamed Nemati. "Spectre Without Dependent Load". Cryptology ePrint Archive, Paper 2026/806. 2026.]]
 
 [[https://www.diva-portal.org/smash/record.jsf?pid=diva2%3A1958212&dswid=2918][Can Aknesil. "Protecting Remote FPGAs and Embedded Devices from Non-Invasive Physical Attacks". Doctoral Thesis, Royal Institute of Technology (KTH), Stockholm, Sweden. 2025.]]
 
@@ -80,79 +82,92 @@ Notre Dame de Sion French High School, Istanbul
 
 [[https://www.canaknesil.com/docs/MAM_A_Memory_Allocation_Manager_for_GPUs.pdf][Can Aknesil and Didem Unat. "MAM: A Memory Allocation Manager for GPUs". 5. Ulusal Yüksek Başarımlı Hesaplama Konferansı, Istanbul, Turkey. September, 2017.]]
 
+** TALKS (excluding presentations of my own research at conferences)
+
+*Invited Talk* /(10 June 2026)/\\
+[[https://www.uu.se/][Uppsala University]], Uppsala, Sweden\\
+Department of Electrical Engineering, Integrated Smart Systems Technology\\
+Title: Side Channels with Can
+
+*Guest Lecture* /(29 September 2025)/\\
+[[https://www.kth.se/en][KTH (Royal Institute of Technology)]], Stockholm\\
+Title: Physical Attacks & Hardware Trojans\\
+Course: EP2780 Digital Forensics and Incident Response
+
 ** PROFESSIONAL EXPERIENCE
 
-*Postdoctoral Researcher* @@latex:\hfill@@ /June 2025 – Present/\\
+*Postdoctoral Researcher* /(June 2025 – Present)/\\
 [[https://www.kth.se/en][KTH (Royal Institute of Technology)]], Stockholm\\
 School of Electrical Engineering and Computer Science\\
 Department of Network and Systems Engineering
 
-*Doctoral Student* @@latex:\hfill@@ /March 2021 – June 2025/\\
+*Doctoral Student* /(March 2021 – June 2025)/\\
 [[https://www.kth.se/en][KTH (Royal Institute of Technology)]], Stockholm\\
 School of Electrical Engineering and Computer Science\\
 Department of Electrical Engineering\\
 Division of Electronics and Embedded Systems
 
-*Research Engineer* @@latex:\hfill@@ /June 2020 – January 2021/\\
+*Research Engineer* /(June 2020 – January 2021)/\\
 [[https://www.kth.se/en][KTH (Royal Institute of Technology)]], Stockholm\\
 School of Electrical Engineering and Computer Science\\
 Department of Electrical Engineering\\
 Division of Electronics and Embedded Systems
 
-*Intern* @@latex:\hfill@@ /June 2019 – November 2019/\\
+*Intern* /(June 2019 – November 2019)/\\
 [[https://www.ericsson.com/en][Telefonaktiebolaget LM Ericsson]], Stockholm\\
 High Performance Broadband/Radio Software Department
 
-*Intern* @@latex:\hfill@@ /July 2017 – September 2017/\\
+*Intern* /(July 2017 – September 2017)/\\
 [[http://www.ctech.com.tr][CTech Bilişim Teknolojileri San. ve Tic. A.Ş.]], Istanbul\\
 Hardware Department
 
-*Mentor Student* @@latex:\hfill@@ /February 2017 – June 2017/\\
+*Mentor Student* /(February 2017 – June 2017)/\\
 [[https://it.ku.edu.tr][Koç University]], Instanbul\\
 IT Department\\
 Communication and Infrastructure Services
 
-*Intern* @@latex:\hfill@@ /July 2016 – August 2016/\\
+*Intern* /(July 2016 – August 2016)/\\
 [[http://obss.com.tr][OBSS]], Istanbul\\
 Technology Department
 
 ** TEACHING EXPERIENCE
 
-*Guest Lecturer* @@latex:\hfill@@ /September 2025/\\
+*Course Development*\\
 [[https://www.kth.se/en][KTH (Royal Institute of Technology)]], Stockholm\\
-Course titled Digital Forensics and Incident Response (EP2780)
+Developed the following lectures, associated laboratory exercises, and quizzes for EP2780 Digital Forensics and Incident Response, to be delivered in Fall 2026:
+- Mobile Forensics
+- Physical Attacks & Hardware Trojans
 
-*Teaching Assistant* (during doctoral studies and later as postdoc) @@latex:\hfill@@ /March 2021 - Present/\\
+*Master's Student Supervision* \\
 [[https://www.kth.se/en][KTH (Royal Institute of Technology)]], Stockholm\\
-School of Electrical Engineering and Computer Science\\
-Department of Electrical Engineering\\
-Division of Electronics and Embedded Systems
+- Federico Mercurio. Enhanced RAN Security Test Planning Through LLM-Driven Test Selection and Structured RAG Workflows. /(Spring 2026)/
+- Miguel Valgañón Soria. Reproducible and Relational Method for Detecting Constant-Time Violations in LLVM Optimization Passes. /(Spring 2026)/
 
-*Undergraduate Teaching Assistant* @@latex:\hfill@@ /September 2017 – January 2018/\\
+*Guest Lecturer* /(29 September 2025)/\\
+[[https://www.kth.se/en][KTH (Royal Institute of Technology)]], Stockholm\\
+Title: Physical Attacks & Hardware Trojans\\
+Course: EP2780 Digital Forensics and Incident Response
+
+*Teaching Assistant*\\
+[[https://www.kth.se/en][KTH (Royal Institute of Technology)]], Stockholm\\
+- IL1333/FIL3030 Hardware Security /(during doctoral studies)/
+- ID2218/FIL3200 Design of Fault-Tolerant Systems /(during doctoral studies)/
+- IL2203 Digital Design and Hardware Description Languages /(during doctoral studies)/
+- EP2780 Digital Forensics and Incident Response /(during postdoc)/
+
+*Undergraduate Teaching Assistant*\\
 [[https://eng.ku.edu.tr/en/][Koç University]], Istanbul\\
-College of Engineering\\
-Supervisor: Deniz Yüret
+Comp200 Structure and Interpretation of Computer Programs /(Fall 2017)/
 
-*Section Leader* @@latex:\hfill@@ /June 20 – 30, 2016/\\
+*Section Leader* /(June 20 – 30, 2016)/\\
 [[https://www.stanford.edu/][Stanford University]] & [[https://eng.ku.edu.tr/en/][Koç University]], Istanbul\\
 [[http://www.csbridge.org][CS Bridge Program]]
-
-** LANGUAGE SKILLS
-
-*Turkish:* Native language
-
-*English:* IELTS in 2018 (Overall: 6.0, Listening: 6.0, Reading: 6.5, Writing: 5.0, Speaking: 5.5), TOEFL IBT in 2017 (Overall: 88, Listening: 27, Reading: 22, Writing: 22, Speaking: 17)
-
-*Swedish:* SFI Course C in 2021 (roughly corresponds to CEFR A2/A2+), KTH Swedish C1 for Employees in 2025
-
-*French:* DELF B2 in 2012 (Overall: 57.5/100, Listening: 11/25, Reading: 12.5/25, Writing: 18/25, Speaking: 16/25)
 
 ** PROFESSIONAL SKILLS
 
 Hardware security\\
 #+ATTR_LATEX: :options [noitemsep, topsep=2pt]
 - Power/EM side-channel attacks
-  (simple, differential, ML-based, and remote power analysis on FPGAs and microcontrollers)
 - Microarchitectural side-channel attacks
 - FPGA security
 - Machine learning security
@@ -169,7 +184,7 @@ Hardware design & development\\
   (using Xilinx and Intel (Altera) design tools)
 - Tcl scripting in Xilinx Vivado environment
 - RTL synthesis with Yosys
-- Graph-bases analysis of digital circuits
+- Analysis of digital circuits
 
 Embedded systems design & development\\
 #+ATTR_LATEX: :options [noitemsep, topsep=2pt]
@@ -208,10 +223,23 @@ Various other areas I have experimented\\
 - Circuit development for audio applications
 - Electronic circuit simulation with PSpice and LTspice
 - Emacs lisp programming
+- Linux server maintainance
+- Amateur radio (SA0NCA)
+
+** LANGUAGE SKILLS
+
+*Turkish:* Native language
+
+*English:* IELTS in 2018 (Overall: 6.0, Listening: 6.0, Reading: 6.5, Writing: 5.0, Speaking: 5.5), TOEFL IBT in 2017 (Overall: 88, Listening: 27, Reading: 22, Writing: 22, Speaking: 17)
+
+*Swedish:* SFI Course C in 2021 (roughly corresponds to CEFR A2/A2+), KTH Swedish C1 for Employees in 2025
+
+*French:* DELF B2 in 2012 (Overall: 57.5/100, Listening: 11/25, Reading: 12.5/25, Writing: 18/25, Speaking: 16/25)
 
 ** PROJECTS
 (From the most recent to the earliest)
 
+- Spectre attack via power side-channel analysis without dependent loads. /(KTH Postdoc)/
 - Detection and mitigation of speculative microarchitectural side channels with LLVM. /(KTH Postdoc)/
 - [[https://github.com/canaknesil/hybrid-fingerprinting-ext][Hybrid fingerprinting (via power side-channel analysis) of neural networks]] /(Doctoral Study)/
 - [[https://github.com/canaknesil/go-game][Go (board game, not the programming language) computer game in Rust]] /(Independent)/
@@ -272,6 +300,7 @@ A subset of my projects can be found [[https://github.com/canaknesil][here]].
 
 - Participated to workshop organized by NDS to "Istanbul Technical University Energy Institute Nuclear Researches Division". Observation of "ITU TRIGA Mark-II Training and Research Reactor". /(2012)/
 
+
 ** HOBBIES & INTERESTS
 
 - Music: Piano, Oud (A Classical Turkish Musical Instrument), and Guitar
@@ -290,4 +319,4 @@ A subset of my projects can be found [[https://github.com/canaknesil][here]].
 
 - Winter sports: Skiing, Ice skating
 
-
+- Amateur radio (SA0NCA)
