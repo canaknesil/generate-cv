@@ -94,6 +94,10 @@ Title: Side Channels with Can
 Title: Physical Attacks & Hardware Trojans\\
 Course: EP2780 Digital Forensics and Incident Response
 
+** ACADEMIC SERVICE
+
+Usenix Security Program Committee member /(2027)/
+
 ** PROFESSIONAL EXPERIENCE
 
 *Postdoctoral Researcher* /(June 2025 – Present)/\\
