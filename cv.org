@@ -24,10 +24,9 @@
 #+HTML_HEAD: <link rel="stylesheet" type="text/css" href="github.css" />
 
 
-* CV
-13 June 2026
+* CV -- Can Aknesil
+28 October 2026
 
-* Can Aknesil
 Kungliga Tekniska H\ouml{}gskolan, SE-100 44 STOCKHOLM\\
 aknesil at kth.se\\
 [[https://www.canaknesil.com][www.canaknesil.com]]
@@ -142,10 +141,9 @@ Developed the following lectures, associated laboratory exercises, and quizzes f
 - Mobile Forensics
 - Physical Attacks & Hardware Trojans
 
-*Master's Student Supervision* \\
+*Lecturer* \\
 [[https://www.kth.se/en][KTH (Royal Institute of Technology)]], Stockholm\\
-- Federico Mercurio. Enhanced RAN Security Test Planning Through LLM-Driven Test Selection and Structured RAG Workflows. /(Spring 2026)/
-- Miguel Valgañón Soria. Reproducible and Relational Method for Detecting Constant-Time Violations in LLVM Optimization Passes. /(Spring 2026)/
+- EP2780 Digital Forensics and Incident Response /(Fall 2026)/
 
 *Guest Lecturer* /(29 September 2025)/\\
 [[https://www.kth.se/en][KTH (Royal Institute of Technology)]], Stockholm\\
@@ -161,12 +159,24 @@ Course: EP2780 Digital Forensics and Incident Response
 
 *Undergraduate Teaching Assistant*\\
 [[https://eng.ku.edu.tr/en/][Koç University]], Istanbul\\
-Comp200 Structure and Interpretation of Computer Programs /(Fall 2017)/
+- Comp200 Structure and Interpretation of Computer Programs /(Fall 2017)/
 
 *Section Leader* /(June 20 – 30, 2016)/\\
 [[https://www.stanford.edu/][Stanford University]] & [[https://eng.ku.edu.tr/en/][Koç University]], Istanbul\\
 [[http://www.csbridge.org][CS Bridge Program]]
 
+** SUPERVISION EXPERIENCE
+
+*Master's Student Supervision* \\
+[[https://www.kth.se/en][KTH (Royal Institute of Technology)]], Stockholm\\
+- Federico Mercurio. Enhanced RAN Security Test Planning Through LLM-Driven Test Selection and Structured RAG Workflows. /(Spring 2026)/
+- Miguel Valgañón Soria. Reproducible and Relational Method for Detecting Constant-Time Violations in LLVM Optimization Passes. /(Spring 2026)/
+
+*Doctoral Student Supervision* \\
+[[https://www.kth.se/en][KTH (Royal Institute of Technology)]], Stockholm\\
+- Siyao Liu /(Spring 2026)/\\
+  (In addition to the main and co-supervisors)
+  
 ** PROFESSIONAL SKILLS
 
 Hardware security\\
@@ -188,7 +198,7 @@ Hardware design & development\\
   (using Xilinx and Intel (Altera) design tools)
 - Tcl scripting in Xilinx Vivado environment
 - RTL synthesis with Yosys
-- Analysis of digital circuits
+- Programmatic analysis of digital circuits
 
 Embedded systems design & development\\
 #+ATTR_LATEX: :options [noitemsep, topsep=2pt]
@@ -203,6 +213,7 @@ High-performance computing (HPC)\\
 
 Computer science\\
 #+ATTR_LATEX: :options [noitemsep, topsep=2pt]
+- Software engineering
 - Scientific programming
 - Machine Learning (supervised and unsupervised)
 - Proficiency in Linux (personal use, system administration, driver and application development)
@@ -281,6 +292,7 @@ A subset of my projects can be found [[https://github.com/canaknesil][here]].
 
 ** CONFERENCES & WORKSHOPS
 
+- [[http://www.fpgaworld.com/][FPGAworld Conference]] in Stockholm. /(2026)/
 - [[https://www.digitalfutures.kth.se/event/challenges-and-opportunities-of-pqc-deployment-workshop/][Challenges and Opportunities of PQC Deployment Workshop]]. /(2026)/
 - [[https://mvl.jpn.org/ISMVL2025/][IEEE 55st International Symposium on Multiple-Valued Logic (ISMVL)]]. Presented a research paper. /(2025)/
 - [[https://dsd-seaa.com/dsd2024/][27th Euromicro Conference Series on Digital System Design]]. Presented a research paper. /(2024)/
@@ -305,21 +317,21 @@ A subset of my projects can be found [[https://github.com/canaknesil][here]].
 - Participated to workshop organized by NDS to "Istanbul Technical University Energy Institute Nuclear Researches Division". Observation of "ITU TRIGA Mark-II Training and Research Reactor". /(2012)/
 
 
-** HOBBIES & INTERESTS
+** HOBBIES & OTHER INTERESTS
 
 - Music: Piano, Oud (A Classical Turkish Musical Instrument), and Guitar
-  - London College of Music Piano Examinations, Grade 5
-  - Koç Orchestra, piano and keyboard, during 3 years. Performed 7 concerts
-  - Water Clock (band), keyboard, during 1 year. Performed 2 concert
+  # - London College of Music Piano Examinations, Grade 5
+  # - Koç Orchestra, piano and keyboard, during 3 years. Performed 7 concerts
+  # - Water Clock (band), keyboard, during 1 year. Performed 2 concert
 
 - Summer sports: Sailing, Windsurfing
-  - Have an Amateur Yacht Captain License
-  - Participated to optimist courses at Ataköy Marine
-  - Participated to sailing education at Istanbul Sailing Club
-  - Officially licensed, intermediate level windsurfer registered with the Turkish Sailing Federation.
+  # - Have an Amateur Yacht Captain License
+  # - Participated to optimist courses at Ataköy Marine
+  # - Participated to sailing education at Istanbul Sailing Club
+  # - Officially licensed, intermediate level windsurfer registered with the Turkish Sailing Federation.
 
 - Tennis, Table tennis, Badminton
-  - Table tennis team member in Notre Dame de Sion (high school)
+  # - Table tennis team member in Notre Dame de Sion (high school)
 
 - Winter sports: Skiing, Ice skating
 
